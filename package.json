@@ -1,0 +1,32 @@
+{
+  "name": "journal-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p 7423",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@types/node": "20.5.6",
+    "bootstrap": "^5.3.2",
+    "next": "14.0.1",
+    "next-sitemap": "^4.2.3",
+    "query-string": "^8.1.0",
+    "react": "18.2.0",
+    "react-admin-base": "^0.8.10",
+    "react-admin-base-bootstrap": "^0.8.18",
+    "react-dates": "^21.8.0",
+    "react-dom": "18.2.0",
+    "react-id-swiper": "^4.0.0",
+    "react-intl": "^6.5.1",
+    "react-router-dom": "^6.18.0",
+    "reactstrap": "^9.2.0",
+    "simple-react-validator": "^1.6.2",
+    "typescript": "5.2.2"
+  },
+  "devDependencies": {
+    "sass": "^1.69.5"
+  }
+}
